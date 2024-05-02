@@ -1,21 +1,26 @@
-# ONLINE-FOOD DATASET
+# ONLINE-FOOD SERVICE DATASET
 
 
 # Title: Exploratory Data Analysis of Online Food Orders Dataset
 
 Introduction:
-Online food delivery has become increasingly popular in recent years, especially with the convenience it offers. In this analysis, we'll delve into a dataset obtained from Kaggle containing information about online food orders. By exploring this dataset, we aim to gain insights into customer behavior, popular food choices, delivery patterns, and more.
+Online food service and delivery has become increasingly popular in recent years, especially with the convenience it offers. 
+In this analysis, I delve into a dataset obtained from Kaggle containing information about online food orders. 
+By exploring this dataset, I aim to gain insights into customer age groups,gender marital status, income level, output, feedback, educational qualifications, occupation, customer behaviors, popular food choices, delivery patterns, and more.
 
 1. Dataset Overview:
 
 The dataset contains information about online food orders, including order ID, food items, order status, customer details, delivery time, and ratings.
-It comprises several columns such as Order ID, Date, Time, Items, Quantity, Price, Payment Method, Customer Details, Delivery Time, and Rating.
+It comprises several columns such as age, gender, marital status, occupation, monthly income, educational qualifications, family size, latitude, longitude, pin code, output and feedback.
+
 2. Data Cleaning and Preprocessing:
 
 Handle missing values: Check for missing values in the dataset and either drop or impute them based on the context.
 Data type conversion: Convert data types if necessary, such as converting date and time columns to datetime objects.
 Remove duplicates: Eliminate duplicate entries in the dataset to ensure accuracy in analysis.
 Check for outliers: Detect and handle outliers that may affect analysis results.
+
+
 3. Exploratory Data Analysis (EDA):
 
 Order Trends:
