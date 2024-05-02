@@ -1,7 +1,7 @@
 # ONLINE-FOOD SERVICE DATASET
 
 
-# Title: Exploratory Data Analysis of Online Food Orders Dataset
+# Title: Exploratory Data Analysis of Online Food Service Dataset
 
 Introduction:
 Online food service and delivery has become increasingly popular in recent years, especially with the convenience it offers. 
