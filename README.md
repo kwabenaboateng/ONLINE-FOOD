@@ -8,7 +8,7 @@ Online food service and delivery has become increasingly popular in recent years
 In this analysis, I delve into a dataset obtained from Kaggle containing information about online food orders. 
 By exploring this dataset, I aim to gain insights into customer age groups,gender marital status, income level, output, feedback, educational qualifications, occupation, customer behaviors, popular food choices, delivery patterns, and more.
 
-
+<br>
 1. Dataset Overview:
 
 The dataset contains information about online food orders, including order ID, food items, order status, customer details, delivery time, and ratings.
