@@ -14,6 +14,8 @@ By exploring this dataset, I aim to gain insights into customer age groups,gende
 The dataset contains information about online food orders, including order ID, food items, order status, customer details, delivery time, and ratings.
 It comprises several columns such as age, gender, marital status, occupation, monthly income, educational qualifications, family size, latitude, longitude, pin code, output and feedback.
 
+
+
 2. Data Cleaning and Preprocessing:
 
 Handle missing values: Check for missing values in the dataset and either drop or impute them based on the context.
