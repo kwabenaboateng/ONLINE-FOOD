@@ -1,7 +1,7 @@
 # ONLINE-FOOD SERVICE DATASET
 
 
-# Title: Exploratory Data Analysis of Online Food Service Dataset
+# Title: In-Depth Analysis of Online Food Service Dataset
 
 
 Introduction:
