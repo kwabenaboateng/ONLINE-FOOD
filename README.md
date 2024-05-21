@@ -3,15 +3,16 @@
 
 # Title: Exploratory Data Analysis of Online Food Service Dataset
 
+
 Introduction:
-Online food service and delivery has become increasingly popular in recent years, especially with the convenience it offers. 
+Online food service and delivery has become increasingly popular in recent years in , especially with the convenience it offers. 
 In this analysis, I delve into a dataset obtained from Kaggle containing information about online food orders. 
 By exploring this dataset, I aim to gain insights into customer age groups,gender marital status, income level, output, feedback, educational qualifications, occupation, customer behaviors, popular food choices, delivery patterns, and more.
 
 <br>
 1. Dataset Overview:
 
-The dataset contains information about online food orders, including order ID, food items, order status, customer details, delivery time, and ratings.
+The dataset was accessed from www.kaggle.com. contains information about online food orders, including order ID, food items, order status, customer details, delivery time, and ratings.
 It comprises several columns such as age, gender, marital status, occupation, monthly income, educational qualifications, family size, latitude, longitude, pin code, output and feedback.
 
 <br>
