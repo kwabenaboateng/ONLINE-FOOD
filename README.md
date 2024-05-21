@@ -16,12 +16,18 @@ The dataset was accessed from www.kaggle.com.
 It contains information about online food orders including age, gender, marital status, occupation, monthly income, educational qualifications, family size, latitude, longitude, pin code, output and feedback.
 
 <br>
-2. Data Cleaning and Preprocessing:
+2. Data Exoploration, Preprocessing and Cleaning:
 
-Handle missing values: Check for missing values in the dataset and either drop or impute them based on the context.
-Data type conversion: Convert data types if necessary, such as converting date and time columns to datetime objects.
-Remove duplicates: Eliminate duplicate entries in the dataset to ensure accuracy in analysis.
-Check for outliers: Detect and handle outliers that may affect analysis results.
+Under this section, I perform the following activities:
+ - Data Exploration: Before my analysis, I made sure to check for all the necessary information about this data.
+   I checked for the size, columns, datatypes and summary statistics of the dataset.
+   
+ - Data Preprocessing: I checked for missing and duplicated values and identified that there were 0 missing values and 103 duplicates values.
+   After further checks, I also discovered that aforementioned duplicates were coincidental values and not necessarily duplicates
+   I then check for outliers and how to handle them so not to affect my analysis results.
+
+
+
 
 <br>
 3. Exploratory Data Analysis (EDA):
