@@ -27,8 +27,6 @@ Under this section, I perform the following activities:
    I then check for outliers and how to handle them so not to affect my analysis results.
 
 
-
-
 <br>
 3. Exploratory Data Analysis (EDA):
 
@@ -53,6 +51,8 @@ Correlation between delivery time and rating.
 Customer Satisfaction:
 Analyze comments or feedback provided by customers.
 Determine common issues and areas for improvement.
+
+<br>
 4. Insights and Observations:
 
 Most popular food items: Pizza, Burgers, Pasta, etc.
