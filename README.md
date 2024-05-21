@@ -61,11 +61,15 @@ Customer demographics: Majority of customers are young adults aged 18-35.
 Delivery time: Average delivery time is within 30-45 minutes.
 Payment methods: Online payment is the most preferred method.
 Customer satisfaction: High ratings correlate with faster delivery and better food quality.
+
+<br>
 5. Conclusion:
 
 The analysis provides valuable insights into online food ordering patterns, customer behavior, and service quality.
 Understanding these insights can help food delivery platforms optimize their services, improve customer satisfaction, and enhance overall user experience.
 Further analysis, including predictive modeling or customer segmentation, could provide more actionable insights for business growth and decision-making.
+
+<br>
 6. References:
 
 Kaggle Dataset: [Online Food Orders Dataset](link to the dataset)
