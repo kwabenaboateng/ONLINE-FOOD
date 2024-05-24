@@ -33,7 +33,34 @@
 
 
 
+# Add description and title
+st.write("""
+# Sentiment Analysis App
+""")
 
+
+# Add image
+image = st.image("images.png", width=200)
+
+
+# Get user input
+text = st.text_input("Type here:")
+button = st.button('Analyze')
+
+# Define the CSS style for the app
+st.markdown(
+"""
+<style>
+body {
+    background-color: #f5f5f5;
+}
+h1 {
+    color: #4e79a7;
+}
+</style>
+""",
+unsafe_allow_html=True
+) 
 
 
 
