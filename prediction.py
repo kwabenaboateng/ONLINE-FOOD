@@ -37,7 +37,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-app = Flask(__name__)
+app = Flask(__prediction__)
 
 # Load the pre-trained model
 model = pickle.load(open('model.pkl', 'rb'))
