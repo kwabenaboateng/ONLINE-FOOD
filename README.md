@@ -1,7 +1,7 @@
 # ONLINE-FOOD SERVICE DATASET
 
 
-# Title: In-Depth Analysis of Online Food Service Dataset
+# In-Depth Analysis of Online Food Service Dataset
 
 
 Introduction:
